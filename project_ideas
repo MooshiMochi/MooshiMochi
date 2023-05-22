@@ -1,3 +1,4 @@
 1. Web spotify SDK player
 2. McDonalds Automatic Review App (requires user to input the reference codes)
 3. Auction House AI (for Hypixel SkyBlock) that will determine item price given a set of parameters
+4. A screenshot taking app like Windows Snip Tool coded in python (without the editing side of it... can include mouse tracing to write on it tho)
