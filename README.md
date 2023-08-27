@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-
-## yerrr
-
+- 🤖 I'm a discord bot developer. My main project is [ManhwaUpdatesBot](https://github.com/MooshiMochi/ManhwaUpdatesBot)
+- 📱 You can contact me on discord. My username is `.mooshi`
+- 🧑‍💻 I mainly write code in Python, but I know a bit of JavaScript, CSS and HTML as well.
 
 <!--
 **MooshiMochi/MooshiMochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
