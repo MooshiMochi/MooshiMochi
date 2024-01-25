@@ -4,6 +4,10 @@
 - 📱 You can contact me on discord. My username is `.mooshi`
 - 🧑‍💻 I mainly write code in Python, but I know a bit of JavaScript, CSS and HTML and Java as well.
 
+### Github Stats
+![Overall stats](https://github-readme-stats.vercel.app/api?username=MooshiMochi&theme=cobalt&show_icons=true&count_private=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MooshiMochi&theme=cobalt&show_icons=true&count_private=true)
 <!--
 **MooshiMochi/MooshiMochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
